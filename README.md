@@ -8,7 +8,7 @@
 2. **Run:**
     - Run the executable or .out file generated after compilation. For example:
     ```
-    .\a.out < sample_input.txt
+    .\bank_system.out < sample_input.txt
     ```
 
 ## Program Description
