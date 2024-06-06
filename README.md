@@ -1,3 +1,16 @@
+## Execution
+
+1. **Compile the Code:**
+   - Compile the source code files using a C++ compiler. For example:
+     ```bash
+     g++ -o bank_system.out .\main.cpp .\bank_acc.cpp .\transactions.cpp
+     ```
+2. **Run:**
+    - Run the executable or .out file generated after compilation. For example:
+    ```
+    .\a.out < sample_input.txt
+    ```
+
 ## Program Description
 
 The program will read the following commands from input and process them as described below:
